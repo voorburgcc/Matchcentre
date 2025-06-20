@@ -1,4 +1,4 @@
-# KNCB Match Centre Documentation (June 2025)
+# KNCB Match Centre Documentation
 
 ## Overview
 
